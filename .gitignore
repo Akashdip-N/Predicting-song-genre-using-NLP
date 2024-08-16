@@ -1,9 +1,18 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 .DS_Store
+.idea
+/venv
 
 # vscode
 .vscode/
 
 # Dataset folder
 /Dataset
+clean_data.csv
+
+
+# Model checkpoints
+model_checkpoint_DNN.keras
+model_checkpoint_RNN.keras
+model_checkpoint_CNN.keras
