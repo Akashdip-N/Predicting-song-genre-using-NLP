@@ -1,0 +1,10 @@
+# requirements.txt file
+
+pandas
+nltk
+matplotlib
+xgboost
+tensorflow
+scikit-learn
+keras
+xgboost
