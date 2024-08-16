@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 To execute the code, follow the steps below:
   * Open the jupyter notebook
-  * Open the file `code.ipynb`
+  * Open the file `x23218461.ipynb`
   * Run the cells
 
 # Output
