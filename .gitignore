@@ -11,6 +11,8 @@ __pycache__/
 /Dataset
 clean_data.csv
 
+.ipynb_checkpoints
+
 
 # Model checkpoints
 model_checkpoint_DNN.keras
