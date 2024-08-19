@@ -1,7 +1,6 @@
 # requirements.txt file
 
 pandas
-nltk
 matplotlib
 xgboost
 tensorflow
@@ -10,3 +9,4 @@ keras
 xgboost
 seaborn
 Jinja2
+nltk
