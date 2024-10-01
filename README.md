@@ -78,3 +78,11 @@ To execute the code, follow the steps below:
 
 The results for each model based on accuracy, precision, and loss will be summarized in the form of a table and will look similar to the following:
 ![Model Stats](Outputs/Model_stats.jpeg)
+
+# Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue to suggest any improvements or report bugs.
+
+# License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
