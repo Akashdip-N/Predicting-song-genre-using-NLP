@@ -1,4 +1,4 @@
-# Song Genre Prediction using Natural Language Processing (NLP)
+# Predicting song genre using Natural Language Processing (NLP)
 ## Introduction
 
 This project aims to predict a song's genre based on its lyrics using various various machine learning models. The models are trained and evaluated on the Multilingual Lyrics for Genre Classification dataset from Kaggle, which contains lyrics in multiple languages with corresponding genre labels.
@@ -48,7 +48,7 @@ You need to have the following softwares installed on your machine:
 Follow the below steps to run the code in your local machine:
   1.	Clone the repository:
 ```bash
-git clone https://github.com/Akashdip-N/Song-Genre-Prediction-using-NLP.git
+git clone https://github.com/Akashdip-N/Predicting-song-genre-using-NLP.git
 ```
   2. Create a virtual environment:
 ```bash
