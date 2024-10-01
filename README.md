@@ -1,7 +1,4 @@
 # Song Genre Prediction using Lyrics
-This project uses Natural Language Processing (NLP) techniques and various machine learning models, such as Deep Learning, XGBoost, Recurrent Neural Networks (RNN), and Convolutional Neural Networks (CNN), to predict the genre of a song based on its lyrics. In addition to these models, custom helper functions are utilized from the functions.py file.
-
-
 ## Introduction
 
 This project aims to predict a song's genre based on its lyrics using various various machine learning models. The models are trained and evaluated on the Multilingual Lyrics for Genre Classification dataset from Kaggle, which contains lyrics in multiple languages with corresponding genre labels.
