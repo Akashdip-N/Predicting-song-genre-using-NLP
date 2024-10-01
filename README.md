@@ -4,7 +4,7 @@ This project uses Natural Language Processing (NLP) techniques and various machi
 
 ## Introduction
 
-The goal of this project is to predict the genre of a song based on its lyrics using various machine learning models. The models are trained and evaluated on the Multilingual Lyrics for Genre Classification dataset from Kaggle, which contains lyrics in multiple languages with corresponding genre labels.
+This project aims to predict a song's genre based on its lyrics using various various machine learning models. The models are trained and evaluated on the Multilingual Lyrics for Genre Classification dataset from Kaggle, which contains lyrics in multiple languages with corresponding genre labels.
 
 This project includes the implementation of different machine learning models such as:
  *	Fully Connected Neural Network (Deep Learning)
