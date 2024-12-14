@@ -61,9 +61,11 @@ conda activate myenv
 ```bash
 pip install -r requirements.txt
 ```
-  4.	Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mateibejan/multilingual-lyrics-for-genre-classification) and place it in the /Dataset directory.
+  4.	Download the dataset from [Kaggle](https://www.kaggle.com/datasets/mateibejan/multilingual-lyrics-for-genre-classification).
   
-  5.	Ensure the `functions.py` file is in the root directory. This file contains helper functions for data preprocessing.
+  5. Create a new directory with the name `Dataset` inside the `Predicting-song-genre-using-NLP` and place the data into the `/Dataset` directory.
+  
+  6.	Ensure the `functions.py` file is in the root directory. This file contains helper functions for data preprocessing.
 
 # Usage
 
