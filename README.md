@@ -3,7 +3,7 @@
 
 This project aims to predict a song's genre based on its lyrics using various deep-learning models. The models are trained and evaluated on the Multilingual Lyrics for Genre Classification dataset from Kaggle, which contains lyrics in multiple languages with corresponding genre labels.
 
-This project includes the implementation of different machine learning models such as:
+This project includes the implementation of different Deep learning models such as:
  *	Fully Connected Neural Network (Deep Learning Model)
  *	XGBoost
  *	Recurrent Neural Network (RNN)
