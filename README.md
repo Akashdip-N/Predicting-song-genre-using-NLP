@@ -1,15 +1,15 @@
 # Predicting song genre using Natural Language Processing (NLP)
 ## Introduction
 
-This project aims to predict a song's genre based on its lyrics using various various machine learning models. The models are trained and evaluated on the Multilingual Lyrics for Genre Classification dataset from Kaggle, which contains lyrics in multiple languages with corresponding genre labels.
+This project aims to predict a song's genre based on its lyrics using various deep-learning models. The models are trained and evaluated on the Multilingual Lyrics for Genre Classification dataset from Kaggle, which contains lyrics in multiple languages with corresponding genre labels.
 
 This project includes the implementation of different machine learning models such as:
- *	Fully Connected Neural Network (Deep Learning)
+ *	Fully Connected Neural Network (Deep Learning Model)
  *	XGBoost
  *	Recurrent Neural Network (RNN)
  *	Convolutional Neural Network (CNN)
 
-Additionally, helper functions are provided in the `functions.py` file to streamline tasks such as data preprocessing and evaluation.
+Additionally, the `functions.py` file provides helper functions to streamline tasks such as data preprocessing and evaluation.
 
 ## Dataset
 
@@ -40,12 +40,12 @@ Tokenization of lyrics, which consisted of sub-steps:
 The helper functions for preprocessing are located in the `functions.py` file.
 
 # Installation
-You need to have the following softwares installed on your machine:
+You need to have the following software installed on your machine:
   * [Python](https://www.python.org/downloads/)
   * [Anaconda Navigator](https://www.anaconda.com/products/distribution)
   * [Juypyter notebook](https://jupyter.org/install)
 
-Follow the below steps to run the code in your local machine:
+Follow the below steps to run the code on your local machine:
   1.	Clone the repository:
 ```bash
 git clone https://github.com/Akashdip-N/Predicting-song-genre-using-NLP.git
